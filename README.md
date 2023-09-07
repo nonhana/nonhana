@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hello~👋Nice to meet you,I'm nonhana.
 
-<!--
-**nonhana/nonhana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on web application developing.
+- 🌱 I’m currently learning React,Nest.js and everything I want to learn to improve my ability.
+- 📫 How to reach me: zhouxiang757@gmail.com
+- 👥: My Personal Website: [littleSharing~☆](http://13.115.119.139:1919)
 
-Here are some ideas to get you started:
+### 📈 GitHub Activity Graph:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github-readme-stats.vercel.app/api?username=nonhana&show_icons=true&theme=transparent)
+
+### 🧑‍🤝‍🧑 My Visitors
+
+![Visitor Count](https://profile-counter.glitch.me/nonhana/count.svg)
+
+### 💻 My Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nonhana&layout=compact&theme=tokyonight)
