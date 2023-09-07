@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning React,Nest.js and everything I want to learn to improve my ability.
 - 📫 How to reach me: zhouxiang757@gmail.com
 - 👥: My Personal Website: [littleSharing~☆](http://13.115.119.139:1919)
+- 👨‍🎓: I am currently a junior student studying at Hangzhou Dianzi University.
 
 ### 📈 GitHub Activity Graph:
 
