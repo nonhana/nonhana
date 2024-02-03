@@ -9,7 +9,7 @@
 
 ### 📈 GitHub Activity Graph:
 
-![GitHub Activity Graph](https://github-readme-stats.vercel.app/api?username=nonhana&show_icons=true&theme=transparent)
+![Metrics](/github-metrics.svg)
 
 ### 🧑‍🤝‍🧑 My Visitors
 
