@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on web application developing.
 - 🌱 I’m currently learning React,Nest.js,Canvas,Pixi.js and everything I want to learn to improve my ability.
 - 📫 How to reach me: zhouxiang757@gmail.com
-- 👥: My Personal Blog: [hana's blog](https://nonhana.github.io)
+- 👥: My Personal Blog: [hana's blog](https://nonhana.xyz)
 - 👨‍🎓: I am currently a junior student studying at Hangzhou Dianzi University.
 - :yum:: I like anime and usually write code when I'm bored. **My favorite character is Lappland from the game Arknights.**
 
