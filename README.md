@@ -25,8 +25,6 @@
 <code><img height="20" src="https://cdn.svgporn.com/logos/java.svg" alt="java" /></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/python.svg" alt="python" /></code>
 
-![Top Langs](https://github-readme-stats-xyxsw.vercel.app/api/top-langs/?username=nonhana&hide_title=true&hide_border=true&layout=default&langs_count=6&text_color=000&icon_color=fff&theme=graywhite&card_width=495)
-
 ### :floppy_disk: Frameworks and Tools
 
 <code><img height="20" src="https://cdn.svgporn.com/logos/vue.svg" alt="vue" /></code>
