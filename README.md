@@ -1,4 +1,4 @@
-<h3 align="center">Hello~👋Nice to meet you,I'm nonhana.</h3>
+<h3 align="center">Hello~👋I'm nonhana!( •̀ ω •́ )✧</h3>
 
 - 🔭 I’m currently working on web application developing.
 - 🌱 I’m currently learning Nuxt.js, React, Next.js, Nest.js, Canvas, Pixi.js and everything I want to learn to improve my ability.
@@ -7,7 +7,15 @@
 - 👨‍🎓: I am currently a junior student studying at Hangzhou Dianzi University.
 - :yum:: I like anime and usually write code when I'm bored. **My favorite character is Lappland from the game Arknights.**
 
-### 📈 GitHub Activity Graph:
+### ❤️ Loving
+
+<img align="left" src="./imgs/pic3.jpg" style="height:400px" alt="suki" title="suki"  />
+
+<img src="./imgs/pic1.jpg" style="width:400px" alt="suki" title="suki"  />
+
+<img src="./imgs/pic2.jpg" style="width:400px" alt="suki" title="suki"  />
+
+### 📈 GitHub Activity Graph
 
 ![Metrics](/github-metrics.svg)
 
