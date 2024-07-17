@@ -9,11 +9,9 @@
 
 ### ❤️ Loving
 
-<img align="left" src="./imgs/pic3.jpg" style="height:400px" alt="suki" title="suki"  />
-
-<img src="./imgs/pic1.jpg" style="width:400px" alt="suki" title="suki"  />
-
-<img src="./imgs/pic2.jpg" style="width:400px" alt="suki" title="suki"  />
+<img align="right" src="./imgs/pic1.jpg" style="height:400px" alt="suki" title="suki"  />
+<img src="./imgs/pic2.jpg" style="height:190px" alt="suki" title="suki"  />
+<img src="./imgs/pic3.jpg" style="height:190px" alt="suki" title="suki"  />
 
 ### 📈 GitHub Activity Graph
 
