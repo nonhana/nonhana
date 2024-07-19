@@ -1,6 +1,6 @@
 <h3 align="center">Hello~👋I'm nonhana!( •̀ ω •́ )✧</h3>
 
-- 🔭 I’m currently working on web application developing.
+- 🔭 I entered the world of programming from front-end development and am currently working on web application development.
 - 🌱 I’m currently learning Nuxt.js, React, Next.js, Nest.js, Canvas, Pixi.js and everything I want to learn to improve my ability.
 - 📫 How to reach me: zhouxiang757@gmail.com
 - 👥: My Personal Blog: [GreyFlowers](https://nonhana.xyz)
