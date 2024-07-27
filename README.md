@@ -13,6 +13,12 @@
 <img src="./imgs/pic2.jpg" style="height:190px" alt="suki" title="suki"  />
 <img src="./imgs/pic3.jpg" style="height:190px" alt="suki" title="suki"  />
 
+### 🎖️ My Current Works
+
+- A forum using Markdown as the main form of communication -> [LittleSharing](https://littlesharing.cn)
+- An HTTP interface management platform that imitates Apifox -> [ApiPlayer](https://api-player.vercel.app)
+- An illustration collection exchange platform inspired by pixiv -> [Picals](http://picals.moe)
+
 ### 📈 GitHub Activity Graph
 
 ![Metrics](/github-metrics.svg)
