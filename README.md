@@ -1,16 +1,32 @@
-<h3 align="center">Hello~👋I'm nonhana!( •̀ ω •́ )✧</h3>
+<h3 align="center">Hi! I'm non_hana 👋.</h3>
 
 ### ❤️ Loving
 
-<img align="right" src="./imgs/pic1.jpg" style="height:400px" alt="suki" title="suki"  />
-<img src="./imgs/pic2.jpg" style="height:190px" alt="suki" title="suki"  />
-<img src="./imgs/pic3.jpg" style="height:190px" alt="suki" title="suki"  />
+<img align="right" src="./imgs/pic1.jpg" style="height:400px" alt="suki1" title="suki1"  />
+<img src="./imgs/pic2.jpg" style="height:190px" alt="suki2" title="suki2"  />
+<img src="./imgs/pic3.jpg" style="height:190px" alt="suki3" title="suki3"  />
 
-### 🎖️ My Current Works
+### 🎖️ My Current Projects
 
-- A forum using Markdown as the main form of communication -> [LittleSharing](https://littlesharing.cn)
-- An HTTP interface management platform that imitates Apifox -> [ApiPlayer](https://api-player.vercel.app)
-- An illustration collection exchange platform inspired by pixiv -> [Picals](http://picals.moe)
+- **[LittleSharing](https://littlesharing.cn/)**
+  
+   A lightweight forum where Markdown is the core of communication. Perfect for sharing ideas and engaging discussions.
+  
+- **[ApiPlayer](https://api-player.vercel.app/)**
+  
+   An HTTP interface management platform inspired by Apifox, streamlining API design, testing, and documentation with elegance.
+  
+- **[Picals](https://www.picals.moe/)**
+  
+   A platform for illustration collection and exchange, drawing inspiration from Pixiv. Explore creativity, art, and community!
+  
+- **[GreyFlowers](https://www.greyflowers.moe/)**
+  
+   My personal blog handwritten by Nuxt3, where I share technical articles, personal thoughts, and everything in between.
+  
+- **[hana-img-viewer](https://hana-img-viewer.vercel.app/)**
+  
+   A lightweight image viewer for Vue3 + TypeScript. Clean, intuitive, and ready to elevate your projects.
 
 ### 📈 GitHub Activity Graph
 
