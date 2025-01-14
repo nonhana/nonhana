@@ -6,18 +6,6 @@
 <img src="./imgs/pic2.jpg" style="height:190px" alt="suki2" title="suki2"  />
 <img src="./imgs/pic3.jpg" style="height:190px" alt="suki3" title="suki3"  />
 
-### 🎖️ My Current Projects
-
-- **[LittleSharing](https://littlesharing.cn/)** A lightweight forum where Markdown is the core of communication. Perfect for sharing ideas and engaging discussions.
-  
-- **[ApiPlayer](https://api-player.vercel.app/)** An HTTP interface management platform inspired by Apifox, streamlining API design, testing, and documentation with elegance.
-  
-- **[Picals](https://www.picals.moe/)** A platform for illustration collection and exchange, drawing inspiration from Pixiv. Explore creativity, art, and community!
-  
-- **[GreyFlowers](https://www.greyflowers.moe/)** My personal blog handwritten by Nuxt3, where I share technical articles, personal thoughts, and everything in between.
-  
-- **[hana-img-viewer](https://hana-img-viewer.vercel.app/)** A lightweight image viewer for Vue3 + TypeScript. Clean, intuitive, and ready to elevate your projects.
-
 ### 📈 GitHub Activity Graph
 
 ![Metrics](/github-metrics.svg)
