@@ -1,5 +1,9 @@
 <h3 align="center">Hi! I'm non_hana 👋.</h3>
 
+### 🥰 About
+
+Student. I entered the world of programming from front-end development. Until now, I love almost all computer knowledge.
+
 ### ❤️ Things I like
 
 <img align="right" src="./imgs/pic1.jpg" style="height:400px" alt="suki1" title="suki1"  />
