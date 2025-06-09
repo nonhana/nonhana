@@ -6,9 +6,9 @@ Student from [Hangzhou Dianzi University](https://www.hdu.edu.cn/). I entered th
 
 ### ❤️ Things I like
 
-<img align="right" src="./imgs/pic1.jpg" style="height:400px" alt="suki1" title="suki1"  />
-<img src="./imgs/pic2.jpg" style="height:190px" alt="suki2" title="suki2"  />
-<img src="./imgs/pic3.jpg" style="height:190px" alt="suki3" title="suki3"  />
+<img align="right" src="./imgs/pic1.webp" style="height:400px" alt="suki1" title="suki1"  />
+<img src="./imgs/pic2.webp" style="height:190px" alt="suki2" title="suki2"  />
+<img src="./imgs/pic3.webp" style="height:190px" alt="suki3" title="suki3"  />
 
 ### 🧑‍🤝‍🧑 Visitors
 
