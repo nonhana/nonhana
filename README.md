@@ -2,7 +2,10 @@
 
 ### 🥰 About
 
-Student from [Hangzhou Dianzi University](https://www.hdu.edu.cn/). I entered the world of programming from front-end development. Until now, I love almost all computer knowledge.
+Student from [Hangzhou Dianzi University](https://www.hdu.edu.cn/).
+I began my journey with frontend development, and now I’m exploring the wider world of computer science — from backend to systems to design.
+
+I love building, learning, and sharing.
 
 ### ❤️ Things I like
 
