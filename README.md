@@ -7,7 +7,7 @@ I began my journey with frontend development, and now I’m exploring the wider 
 
 I love building, learning, and sharing.
 
-~~"Now I'm still on my way to find flowers"~~
+~~"I'm still on my way to find flowers"~~
 
 ### ❤️ Things I like
 
